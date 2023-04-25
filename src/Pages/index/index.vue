@@ -1,10 +1,11 @@
 <template>
-  <StringObject />
+  <div class="box">
+    <div class="aaa"><img src="../../assets/preview.jpg" alt=""></div>
+  </div>
 </template>
 
 <script setup>
-import StringObject from "../StringObject/index.vue";
+
 </script>
 
-<style>
-</style>
+<style lang="less"  scoped></style>
